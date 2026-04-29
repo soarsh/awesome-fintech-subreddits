@@ -1,5 +1,7 @@
 # Awesome Fintech Subreddits
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 The communities where consumers research credit cards, founders compare payment rails, retail investors compare brokers, and finfluencers occasionally trigger six-figure FINRA fines for the firms that hired them. Curated for VPs of Marketing at fintech, payments, lending, banking-tech, wealthtech, and crypto companies who'd like to use Reddit without ending up in an enforcement action.
 
 > **About this list.** Maintained by [Soar](https://soar.sh). We sell Reddit accounts and run engagement campaigns for B2B and consumer brands, so we have direct skin in the game on what works in these communities. The commentary on mod culture, removal rates, and what gets banned comes from running real campaigns across hundreds of subreddits, not desk research.
