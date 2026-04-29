@@ -158,9 +158,9 @@ This is the section every other "best fintech subreddits" list omits, and the on
 
 Reddit promotion has been a specific target of FINRA enforcement since the 2021 finfluencer sweep:
 
-- **M1 Finance, March 2024: $850,000 fine.** Bill St. Louis, FINRA EVP and Head of Enforcement: "FINRA will continue to consider whether firms are using practices and maintaining supervisory systems that are reasonably designed to address the risks related to social media influencer programs."
-- **Public.com, May 2025: $350,000 fine.** FINRA found Public paid more than 110 social-media influencers between January 2020 and September 2022 to promote the firm; the influencers' communications were "not fair and balanced or made claims that were misleading or unwarranted," breaching FINRA Rules 2210(d) and 2010 plus Exchange Act recordkeeping obligations. Influencers said "commission free trades" without disclosing other fees; pitched fractional shares without disclosing limitations.
-- **TradeZero: $250,000. Moomoo: $750,000.** Same pattern: insufficient pre-approval, inadequate retention, missing risk disclosures, opaque fees.
+1. **M1 Finance, March 2024: $850,000 fine.** Bill St. Louis, FINRA EVP and Head of Enforcement: "FINRA will continue to consider whether firms are using practices and maintaining supervisory systems that are reasonably designed to address the risks related to social media influencer programs."
+2. **Public.com, May 2025: $350,000 fine.** FINRA found Public paid more than 110 social-media influencers between January 2020 and September 2022 to promote the firm; the influencers' communications were "not fair and balanced or made claims that were misleading or unwarranted," breaching FINRA Rules 2210(d) and 2010 plus Exchange Act recordkeeping obligations. Influencers said "commission free trades" without disclosing other fees; pitched fractional shares without disclosing limitations.
+3. **TradeZero: $250,000. Moomoo: $750,000.** Same pattern: insufficient pre-approval, inadequate retention, missing risk disclosures, opaque fees.
 
 **FINRA Rule 2210 applies regardless of platform.** From FINRA's own social-media topic page: "Third-party posts generally are not subject to FINRA's advertising rules unless the firm has adopted or becomes entangled with the content of an interactive post." Adoption equals endorsement; entanglement equals participation in creation. Either pulls a Reddit comment under Rule 2210.
 
