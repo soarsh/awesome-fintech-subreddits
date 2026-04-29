@@ -4,7 +4,7 @@ The communities where consumers research credit cards, founders compare payment 
 
 > **About this list.** Maintained by [Soar](https://soar.sh). We sell Reddit accounts and run engagement campaigns for B2B and consumer brands, so we have direct skin in the game on what works in these communities. The commentary on mod culture, removal rates, and what gets banned comes from running real campaigns across hundreds of subreddits, not desk research.
 >
-> We don't link to product pages from inside the list. Every recommendation stands on its own. Verify it against your own posting and tell us if our read is wrong: open an issue or PR (see Contributing below).
+> We don't link to product pages from inside the list. Every recommendation stands on its own. Verify it against your own posting and tell us if our read is wrong: [file an issue](../../issues/new).
 
 ---
 
@@ -48,7 +48,7 @@ A subreddit had to clear all four bars to land here:
 - **Compliant promotion paths exist.** A sub where the only viable strategy is undisclosed astroturfing isn't worth recommending; the regulatory exposure is asymmetric.
 - **Survives the editorial honesty test.** If our honest answer is "this sub is listening-only, do not post," we say so.
 
-We're keeping parity with the verticals shipped on the live Soar page, where the same shortlist is enriched with brand-mention data from ChatGPT and Google AI Overviews citations. See "Live version with brand-mention data" below for the link. The list here is editorial; the live page is data-augmented.
+We're keeping parity with the verticals shipped on [soar.sh/subreddits/best-for/fintech](https://soar.sh/subreddits/best-for/fintech), where the same shortlist is enriched with brand-mention data from ChatGPT and Google AI Overviews citations. The list here is editorial; the live page is data-augmented.
 
 Order is by realistic marketing fit, with the highest-utility subs first and the listening-only ones last.
 
@@ -112,7 +112,7 @@ The largest general crypto sub. Daily price-discussion megathreads, weekly skept
 
 **Why it matters for fintech.** A formal "anti-shill" apparatus, including a downvote brigade culture against perceived shills and rules against project promotion outside designated AMAs and Skeptic threads. Brand-led AMAs work *only* with formal mod coordination and proper disclosure. Educational long-form on protocols, Layer-2 comparisons, security postmortems, and regulatory analysis works. Coinbase, Kraken, Ledger, MetaMask are mentioned constantly in support contexts. Single Grain's crypto-Reddit analysis captures it: "Hype campaigns backfire and education performs better."
 
-**How to post here without getting removed.** Removed: project shills with no disclosure, "X to the moon" posts, undisclosed paid promotions, ICO/IDO marketing, NFT mints, pump-coordination, wallet-drainer phishing. The 2023 *insider trading* incident is instructive: the sub's own mods were [removed for accused MOON insider trading](https://www.coindesk.com/markets/2023/10/23/reddit-crypto-community-removes-moderators-accused-of-moon-insider-trading) per Coindesk. The community polices itself harshly even on its own mods. The SEC's Cross-Border Task Force, formed September 2025, is now actively pursuing crypto pump schemes; the regulatory exposure for sloppy crypto Reddit marketing is severe.
+**How to post here without getting removed.** Removed: project shills with no disclosure, "X to the moon" posts, undisclosed paid promotions, ICO/IDO marketing, NFT mints, pump-coordination, wallet-drainer phishing. The 2023 *insider trading* incident is instructive: the sub's own mods were removed for accused MOON insider trading per Coindesk (link in Further reading below). The community polices itself harshly even on its own mods. The SEC's Cross-Border Task Force, formed September 2025, is now actively pursuing crypto pump schemes; the regulatory exposure for sloppy crypto Reddit marketing is severe.
 
 ---
 
@@ -190,7 +190,7 @@ The communities above are individually different, but the operating loop across 
 
 **The shadow-throttling problem is real.** Reddit's anti-spam systems often don't remove your post; they suppress its distribution silently. Karmic Reddit Agency's Colin Belyea calls it shadow throttling: "your content stays up, but your distribution disappears and engagement stalls." If you've been posting and seeing zero engagement, the most likely explanation isn't that your content is bad. It's that your account history is flagged. Account warmth, link-history hygiene, and posting cadence matter more than copy.
 
-**The Reddit-as-SEO case is now bigger than the Reddit-as-community case.** Foundation Inc.'s 8,566-keyword analysis found Reddit outranks every vendor simultaneously on 50–66% of shared B2B SaaS keywords across three verticals. The same pattern holds in fintech: Reddit threads about "best business checking account" and "best high-yield savings" rank above bank-owned content for high-intent queries. Even if you never post once, your buyers are reading Reddit threads about your category through ChatGPT's lens. The defensive case for being present in those threads (with proper compliance) is stronger than the offensive case for using Reddit as a lead-gen channel.
+**The Reddit-as-SEO case is now bigger than the Reddit-as-community case.** Foundation Inc.'s 8,566-keyword analysis found Reddit outranks every vendor simultaneously on 50 to 66% of shared B2B SaaS keywords across three verticals. The same pattern holds in fintech: Reddit threads about "best business checking account" and "best high-yield savings" rank above bank-owned content for high-intent queries. Even if you never post once, your buyers are reading Reddit threads about your category through ChatGPT's lens. The defensive case for being present in those threads (with proper compliance) is stronger than the offensive case for using Reddit as a lead-gen channel.
 
 The honest summary: Reddit works for fintech as a research and search-presence surface, not as a direct conversion channel. The brands that try to flip that ratio inherit asymmetric regulatory exposure. The brands that play it the right way (listening, disclosed participation, mod-coordinated AMAs, Reddit Ads with creative compliance) earn brand-mention assets that compound for years.
 
@@ -198,31 +198,31 @@ The honest summary: Reddit works for fintech as a research and search-presence s
 
 ## FAQ
 
-### Why isn't r/CreditCards on this list
+### Why r/CreditCards isn't on this list
 
 It probably should be. r/CreditCards (~1.4M) is directly relevant to issuers, neobanks, BNPL, and rewards-card challengers. The mod regime is firm but not draconian. Banks mentioned constantly. Sister sub r/churning (~600K) is a tighter, higher-LTV community but recently retired referral threads (read the Doctor of Credit writeup before approaching). Add to your 90-day plan alongside this list.
 
-### Can a B2B fintech use Reddit Ads for lead gen
+### Whether a B2B fintech can use Reddit Ads for lead gen
 
 Yes, with caveats. Reddit Ads work well for B2B fintech awareness and consideration; the conversion-to-MQL math depends on your targeting (subreddit-targeted ads with finance and small-business interests outperform broad targeting). Promoted Posts amplifying organic content already performing in r/smallbusiness is reportedly one of the best-ROI Reddit Ads patterns. The thing not to do is Conversion campaigns expecting LinkedIn-style direct demo bookings; the channel doesn't behave that way.
 
-### Is it safe to mention competitors in our Reddit posts
+### Whether it's safe to mention competitors in our Reddit posts
 
 Yes, and usually advisable. The "I tried X, Y, and Z, and here's why we settled on W" framing is one of the most credible posting patterns on Reddit. Just be factually accurate (compliance lawyers care about this) and disclose your affiliation. Trash-talking competitors without disclosure is detected fast and torches credibility.
 
-### What's the realistic timeline before Reddit produces fintech leads
+### Realistic timeline before Reddit produces fintech leads
 
 Three to nine months from first comment to first measurable lead, with B2B fintech (r/smallbusiness primarily) tending to be on the shorter end and consumer fintech on the longer end. The compounding asset is search presence: Reddit threads ranking for category queries drive traffic for years. If your runway is shorter than three months, prioritize Reddit Ads and skip organic for now.
 
-### Does our crypto AMA need legal review
+### Whether our crypto AMA needs legal review
 
 Yes, especially after the 2025 SEC enforcement results expansion. AMAs are public marketing communications; in many jurisdictions they require the same pre-approval workflow as a press release or paid post. Get them through compliance before they go live, and have an answer ready for "is this token a security?" before someone asks (which they will).
 
-### What's the difference between "marketing" Reddit and the FINRA-regulated parts of Reddit for our fintech
+### Difference between "marketing" Reddit and the FINRA-regulated parts of Reddit for our fintech
 
 If your firm is a registered broker-dealer or investment adviser, the FINRA rules apply to *any* communication about products and services made by you or anyone you've paid or instructed. That includes Reddit DMs from a customer-success rep responding to a complaint thread. It includes a referral-program participant's tweet that you retweeted. The line isn't "Reddit vs. other channels"; it's "communications by or for the firm vs. genuinely independent third-party speech."
 
-### Should fintech founders start their own brand subreddits
+### Whether fintech founders should start their own brand subreddits
 
 Maybe, eventually, but it's a long-term commitment, not a campaign. r/Mercury, r/Brex, r/Ramp, r/Wealthfront-style branded subs work when the brand has a substantive product story to discuss daily and a community manager committed to multi-year stewardship. The successful examples invariably look more like 1Password's r/1Password (a customer-retention surface, not an acquisition channel) than a launch venue. Start by monitoring whether an unofficial sub already exists for your brand, and engage transparently there if so.
 
@@ -233,12 +233,12 @@ Maybe, eventually, but it's a long-term commitment, not a campaign. r/Mercury, r
 A note on what's not here and why, since most "best of" lists don't show their work:
 
 - **r/CreditCards (~1.4M)**: should arguably be a 9th sub. Direct relevance to issuers, neobanks, BNPL, rewards-card challengers. Mod regime is firm but not draconian.
-- **r/Bogleheads (~628K–830K)**: the Vanguard-philosophy index-investing community. Cited by Slate as "the one internet forum that will get you through stock market chaos." High-LTV audience for ETF issuers, low-cost passive robo-advisors, and HSA platforms.
-- **r/Banking (~57K–96K)**: most direct sub for traditional banking, neobank, and account-opening discussion. Smaller than r/personalfinance but pure-fit.
-- **r/fintech (~50K–156K)**: industry sub. Readers are operators, not customers. Excellent for B2B fintech infrastructure (banking-as-a-service, compliance tools, KYC/AML, lending infrastructure) and recruiting. Wrong for B2C user acquisition.
+- **r/Bogleheads (~628K to 830K)**: the Vanguard-philosophy index-investing community. Cited by Slate as "the one internet forum that will get you through stock market chaos." High-LTV audience for ETF issuers, low-cost passive robo-advisors, and HSA platforms.
+- **r/Banking (~57K to 96K)**: most direct sub for traditional banking, neobank, and account-opening discussion. Smaller than r/personalfinance but pure-fit.
+- **r/fintech (~50K to 156K)**: industry sub. Readers are operators, not customers. Excellent for B2B fintech infrastructure (banking-as-a-service, compliance tools, KYC/AML, lending infrastructure) and recruiting. Wrong for B2C user acquisition.
 - **r/options (~1M+)**: higher quality than r/wallstreetbets on options content; brokerages with strong options execution (tastytrade, Interactive Brokers) get organic mentions.
 - **r/dividends, r/SecurityAnalysis (~125K)**: income-focused and value-investing audiences. Worth flagging for relevant product categories.
-- **r/defi**: tighter than r/CryptoCurrency on protocol discussion; expect anti-shill rules at least as strict.
+- **r/defi**: tighter than r/CryptoCurrency on protocol discussion (DeFi-specific); expect anti-shill rules at least as strict.
 - **r/Accounting (~1.2M), r/Bookkeeping**: B2B accounting fintechs (Bench, Pilot, Ramp's accounting integrations, QuickBooks alternatives) have direct path to buyer here.
 - **r/Entrepreneur, r/SaaS**: founder-side audiences. Conditional fit; promotion is permanent-ban material outside designated weekly threads, and the 10-comment-karma minimum to start discussions filters out drive-by founders.
 
@@ -253,6 +253,7 @@ A note on what's not here and why, since most "best of" lists don't show their w
 - [Sedric.ai: When Social Clout Meets Compliance: Finfluencers in FINRA's Crosshairs](https://www.sedric.ai/blog/when-social-clout-meets-compliance-finfluencers-in-finras-crosshairs) - Walkthrough of recent enforcement actions.
 - [Lewitas Hyman: FINRA fines online brokerage for lapses in monitoring social media influencers](https://www.securitieslaw.com/blog/2025/05/finra-fines-online-brokerage-for-lapses-in-monitoring-social-media-influencers/) - The Public.com $350K case.
 - [SEC: Enforcement Results for Fiscal Year 2025](https://www.sec.gov/newsroom/press-releases/2026-34) - Pump-and-dump and Cross-Border Task Force expansion.
+- [CoinDesk: Reddit Crypto Community Removes Moderators Accused of MOON Insider Trading](https://www.coindesk.com/markets/2023/10/23/reddit-crypto-community-removes-moderators-accused-of-moon-insider-trading) - The case study on community self-policing.
 - [Slate: Bogleheads, the one internet forum that will get you through stock market chaos](https://slate.com/technology/2025/03/bogleheads-investing-strategy-reddit-stock-market-chaos.html) - The case for r/Bogleheads as a fintech-marketing surface.
 
 ---
@@ -266,11 +267,8 @@ A note on what's not here and why, since most "best of" lists don't show their w
 
 ## Live version with brand-mention data
 
-The live page on Soar tracks which brands ChatGPT and Google AI Overviews cite across these communities, refreshed quarterly:
-
-**[soar.sh/subreddits/best-for/fintech](https://soar.sh/subreddits/best-for/fintech)**
+The live page on Soar tracks which brands ChatGPT and Google AI Overviews cite across these communities, refreshed quarterly: **soar.sh/subreddits/best-for/fintech**
 
 ## Contributing
 
-Spotted a missing subreddit, a stale removal-rate observation, or a mod-rule change? [Open an issue](../../issues) or [submit a PR](../../pulls). See [CONTRIBUTING.md](CONTRIBUTING.md).
-
+Spotted a missing subreddit, a stale removal-rate observation, or a mod-rule change? [Open an issue](../../issues) or [submit a PR](../../pulls). See [CONTRIBUTING.md](CONTRIBUTING.md). Released under [CC0 1.0](LICENSE).
